@@ -7,4 +7,6 @@
     <string name="lastNameEditText">Last Name</string>
     <string name="firstNameEditText">First Name</string>
     <string name="passwordConfirmationEditTextHint">Password Confirmation</string>
+    <string name="registerButtonText">Register</string>
+    <string name="loginButtonText">Login</string>
 </resources>
